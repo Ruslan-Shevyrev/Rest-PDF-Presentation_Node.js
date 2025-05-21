@@ -1,11 +1,11 @@
 # bak #
 ############
 *.bak
-node_modules
-media_
-media
-dbconfig_*.js
-config_*.json
-package-lock.json
-RestImageResize_.js
-query_*.js
+APP/node_modules
+APP/media_
+APP/media
+APP/dbconfig_*.js
+APP/config_*.json
+APP/package-lock.json
+APP/RestImageResize_.js
+APP/query_*.js
